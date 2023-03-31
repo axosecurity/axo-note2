@@ -1,0 +1,41 @@
+# axo-note
+
+
+THIS IS A REPOSITORY THAT WILL BE USED FOR SECURELY SAVEING NOTES ALSO CODES 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Axosecurity (created by axosolaman)

@@ -1,0 +1,54 @@
+
+
+Ethical hacker Axosolaman
+Penetration testing Axosolaman
+Cybersecurity expert Axosolaman
+Bangladesh cybersecurity Axosolaman
+Axosolaman on cybersecurity
+Axosolaman's hacking skills
+Axosolaman's cybersecurity tips
+Axosolaman's guide to ethical hacking
+Axosolaman's cybersecurity journey
+
+Axosolaman,
+axosolaman,
+AXOSOLAMAN,
+Axo solaman,
+AxoSolaman,
+Axo Solaman,
+Axoso Laman,
+Axosolaman ethical hacker
+Axosolaman penetration testing
+Axosolaman cybersecurity
+Axosolaman Bangladesh
+Axosolaman security
+Axosolaman infosec
+Axosolaman tips
+Axosolaman guide.
+
+
+
+
+#ethicalhacker #penetrationtesting #cybersecurity #bangladesh #Axosecurity #informationsecurity #cybercrime #hackers 
+#itsecurity #vulnerabilityassessment #networksecurity #websecurity #datasecurity #onlinesecurity #securitytesting  
+
+
+
+
+PS C:\Users\City Online Ltd\git-note\axo-note>
+PS C:\Users\City Online Ltd\git-note\axo-note>
+PS C:\Users\City Online Ltd\git-note\axo-note> git push
+Enumerating objects: 40, done.
+Counting objects: 100% (40/40), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (38/38), done.
+Writing objects: 100% (38/38), 244.26 MiB | 2.08 MiB/s, done.
+Total 38 (delta 17), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (17/17), completed with 1 local object.
+remote: error: Trace: 699adb01a62e4b1a1885ef87275072bba038cf88a93a35d2f838b218c9b271d8
+remote: error: See http://git.io/iEPt8g for more information.
+remote: error: File Axosolaman/Pic.zip is 155.43 MB; this exceeds GitHub's file size limit of 100.00 MB
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.
+To https://github.com/axosecurity/axo-note.git
+ ! [remote rejected] master -> master (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/axosecurity/axo-note.git'
